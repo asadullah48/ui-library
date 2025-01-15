@@ -17,10 +17,10 @@ export const metadata = {
 
 const data = [
   {
-    postId: 'HackatonA2024',
-    profileName: 'Asadullah Shafique',
-    bio: 'Software developer | Nextjs | JavaScript',
-    likedBy: 'Ahmed Shafique',
+    postId: 'Hackaton202',
+    profileName: 'Gideon Akinsanmi',
+    bio: 'Software developer | Reactjs | JavaScript',
+    likedBy: 'Gid Akins jnr',
     date: '3d',
     connectionLevel: '2nd',
     textContent: "I'm thrilled to announce that I've joined OpenAI as a Frontend Developer!",
@@ -28,10 +28,10 @@ const data = [
     comments: '5'
   },
   {
-    postId: 'HackathonB2024',
-    profileName: 'Asadullah Shafique',
+    postId: 'fghsshw9393j',
+    profileName: 'Gid Akins Jnr',
     bio: 'Technical Writer | Reactjs | Writer at freecodecamp | AI Enthusiast ',
-    likedBy: 'ABC',
+    likedBy: 'Gideon Akinsanmi',
     date: '3d',
     connectionLevel: '2nd',
     textContent: "<span style='color:#0A66C2'>#hiring</span>\n <span style='color:#0A66C2'>#frontendjobs</span>\n <span style='color:#0A66C2'>#backendjobs</span>",

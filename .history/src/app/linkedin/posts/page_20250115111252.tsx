@@ -29,9 +29,9 @@ const data = [
   },
   {
     postId: 'HackathonB2024',
-    profileName: 'Asadullah Shafique',
+    profileName: 'Hamza Shafique',
     bio: 'Technical Writer | Reactjs | Writer at freecodecamp | AI Enthusiast ',
-    likedBy: 'ABC',
+    likedBy: '',
     date: '3d',
     connectionLevel: '2nd',
     textContent: "<span style='color:#0A66C2'>#hiring</span>\n <span style='color:#0A66C2'>#frontendjobs</span>\n <span style='color:#0A66C2'>#backendjobs</span>",

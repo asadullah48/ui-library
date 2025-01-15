@@ -28,10 +28,10 @@ const data = [
     comments: '5'
   },
   {
-    postId: 'HackathonB2024',
-    profileName: 'Asadullah Shafique',
+    postId: 'Hackathon2024',
+    profileName: 'Gid Akins Jnr',
     bio: 'Technical Writer | Reactjs | Writer at freecodecamp | AI Enthusiast ',
-    likedBy: 'ABC',
+    likedBy: 'Gideon Akinsanmi',
     date: '3d',
     connectionLevel: '2nd',
     textContent: "<span style='color:#0A66C2'>#hiring</span>\n <span style='color:#0A66C2'>#frontendjobs</span>\n <span style='color:#0A66C2'>#backendjobs</span>",

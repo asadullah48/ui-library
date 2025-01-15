@@ -29,7 +29,7 @@ const data = [
   },
   {
     postId: 'HackathonB2024',
-    profileName: 'Asadullah Shafique',
+    profileName:  Shafique',
     bio: 'Technical Writer | Reactjs | Writer at freecodecamp | AI Enthusiast ',
     likedBy: 'ABC',
     date: '3d',
