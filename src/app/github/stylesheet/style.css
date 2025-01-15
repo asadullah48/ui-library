@@ -1,0 +1,40 @@
+
+
+@font-face {
+    font-family: 'MonoSans-light';
+    src: url('../fonts/Monosans/Mona-Sans-Light.otf') format('opentype');
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'MonoSans-medium';
+    src: url('../fonts/Monosans/Mona-Sans-Medium.otf') format('opentype');
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'MonoSans-bold';
+    src: url('../fonts/Monosans/Mona-Sans-Bold.otf') format('opentype');
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  .font-mono-sans-bold {
+    font-family: 'MonoSans-bold', Helvetica, Arial, sans-serif;
+  }
+
+  .font-mono-sans-medium {
+    font-family: 'MonoSans-medium', Helvetica, Arial, sans-serif;
+  }
+
+  .font-mono-sans-light {
+    font-family: 'MonoSans-light', Helvetica, Arial, sans-serif;
+  }
+
+  * {
+    ::selection {
+      background-color: transparent;
+    }
+  }
